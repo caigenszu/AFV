@@ -5,7 +5,7 @@ Copyright: Chisheng Wang, 2018
 Email: sherwoodwang88@gmail.com
 
 Reference: 
-Chisheng Wang, Junzhuo Ke, Jincheng Jiang, Min Lu, Wenqun Xiu, Peng Liu, Qingquan Li. Visual analytics of aftershock point cloud data in complex fault systems. Solid Earth. 2019, 10(SCI).
+Chisheng Wang, Junzhuo Ke, Jincheng Jiang, Min Lu, Wenqun Xiu, Peng Liu, Qingquan Li. Visual analytics of aftershock point cloud data in complex fault systems. Solid Earth. 2019, 10.
 
 NOTES:
 Use plane_line_intersect.m from Nassim Khaled, Wayne State University for line plane intersection calculation
